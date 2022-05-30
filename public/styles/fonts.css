@@ -1,0 +1,21 @@
+@font-face {
+  font-family: dinpro;
+  font-weight: 400;
+  font-style: normal;
+  src: url(../fonts/DINWebPro.eot);
+  src: url(../fonts/DINWebPro.eot?#iefix) format("embedded-opentype"),
+    url(../fonts/DINWebPro.woff2) format("woff2"),
+    url(../fonts/DINWebPro.woff) format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: dinpro;
+  font-weight: 500;
+  font-style: normal;
+  src: url(../fonts/DINWebPro-Medium.eot);
+  src: url(../fonts/DINWebPro-Medium.eot?#iefix) format("embedded-opentype"),
+    url(../fonts/DINWebPro-Medium.woff2) format("woff2"),
+    url(../fonts/DINWebPro-Medium.woff) format("woff");
+  font-display: swap;
+}
